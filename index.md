@@ -12,7 +12,7 @@
 <img src="images/Eagle Project 2.jpg?raw=true"/>
 
 ---
-[Grocery Store Network Analysis, Leon County](/Eagle Project 4.png) 
+[Grocery Store Network Analysis, Leon County](https://github.com/chereagle1/chereagle1.github.io/blob/ed976d2f79c6f9ae2ab569f7ba7a208e7c95bd77/images/Eagle%20Project%204.png) 
 <img src="images/Eagle Project 4.png?raw=true"/>
 
 ---
