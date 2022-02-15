@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ranger Accessibility Path](/sample_page)
+<img src="https://github.com/chereagle1/chereagle1.github.io/blob/dd0a32c6070c0fe5ba041361f4885f252e74df09/images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
