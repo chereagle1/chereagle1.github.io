@@ -19,6 +19,7 @@
 [Grocery Store Network Analysis, Leon County](http://example.com/)
 <img src="images/Assignment 7 Eagle.pdf"/>
 
+---
 ### Category Name 2
 
 - [California "Camp Fire Wildfire" Analysis 2018](pdf src="pdf/Final%20Project%20Mark%20Eagle.pdf"/>)
