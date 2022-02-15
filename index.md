@@ -8,7 +8,7 @@
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
-LA River Revitalization Plan, Park Prospects (/images/Eagle Project 2.jpg)
+LA River Revitalization Plan, Park Prospects (img src="images/Eagle Project 2.jpg")
 <img src="images/Eagle Project 2.jpg"/>
 
 ---
