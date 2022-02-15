@@ -16,7 +16,7 @@
 <img src="images/Eagle Project 4.png"/>
 
 ---
-[Tracking Hurricane Katrina and Emily, 2005] 
+[Tracking Hurricane Katrina and Emily, 2005] (/pdf/Assignment 7 Eagle.pdf)
 <img src="images/Assignment 7 Eagle.pdf"/>
 
 ---
