@@ -9,15 +9,15 @@
 
 ---
 [LA River Revitalization Plan, Park Prospects](https://github.com/chereagle1/chereagle1.github.io/blob/60113849667e2a074f07f0cb50c04f9444fd7993/images/Eagle%20Project%202.jpg)
-<img src="images/Eagle Project 2.jpg"/>
+<img src="images/Eagle Project 2.jpg?raw=true"/>
 
 ---
 [Grocery Store Network Analysis, Leon County](/images/Eagle Project 4.png) 
-<img src="images/Eagle Project 4.png"/>
+<img src="images/Eagle Project 4.png?raw=true"/>
 
 ---
 [Tracking Hurricane Katrina and Emily, 2005](/pdf/Assignment 7 Eagle.pdf)
-<pdf src="pdf/Assignment 7 Eagle.pdf"/>
+<pdf src="pdf/Assignment 7 Eagle.pdf?raw=true"/>
 
 ---
 ### Category Name 2
