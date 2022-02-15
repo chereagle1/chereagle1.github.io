@@ -4,19 +4,19 @@
 
 ### Previous Projects 
 
-[Ranger Accessibility Path] #(/sample_page)
+[Ranger Accessibility Path] 
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
-[LA River Revitalization Plan, Park Prospects] #(/pdf/sample_presentation.pdf)
+[LA River Revitalization Plan, Park Prospects] 
 <img src="images/Eagle Project 2.jpg"/>
 
 ---
-[Grocery Store Network Analysis, Leon County] #(http://example.com/)
+[Grocery Store Network Analysis, Leon County] 
 <img src="images/Eagle Project 4.png"/>
 
 ---
-[Tracking Hurricane Katrina and Emily, 2005] #(http://example.com/)
+[Tracking Hurricane Katrina and Emily, 2005] 
 <img src="images/Assignment 7 Eagle.pdf"/>
 
 ---
