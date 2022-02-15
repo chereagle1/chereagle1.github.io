@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [California "Camp Fire Wildfire" Analysis 2018](https://github.com/chereagle1/chereagle1.github.io/blob/039339d4d091b9a4f2bd4a532861024bbe221132/pdf/Final%20Project%20Mark%20Eagle.pdf)
+- [California "Camp Fire Wildfire" Analysis 2018](pdf src="pdf/Final%20Project%20Mark%20Eagle.pdf"/>)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
