@@ -16,7 +16,7 @@
 <img src="images/Eagle Project 4.png"/>
 
 ---
-[Grocery Store Network Analysis, Leon County](http://example.com/)
+[Tracking Hurricane Katrina and Emily, 2005](http://example.com/)
 <img src="images/Assignment 7 Eagle.pdf"/>
 
 ---
