@@ -4,15 +4,15 @@
 
 ### Previous Projects 
 
-Ranger Accessibility Path, col="RED"
+Ranger Accessibility Path
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
-[LA River Revitalization Plan, Park Prospects] 
+LA River Revitalization Plan, Park Prospects 
 <img src="images/Eagle Project 2.jpg"/>
 
 ---
-[Grocery Store Network Analysis, Leon County] 
+Grocery Store Network Analysis, Leon County 
 <img src="images/Eagle Project 4.png"/>
 
 ---
