@@ -16,6 +16,8 @@
 <img src="images/Eagle Project 4.png"/>
 
 ---
+[Grocery Store Network Analysis, Leon County](http://example.com/)
+<img src="images/Assignment 7 Eagle.pdf"/>
 
 ### Category Name 2
 
