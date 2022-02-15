@@ -4,7 +4,7 @@
 
 ### Previous Projects 
 
-Ranger Accessibility Path
+[Ranger Accessibility Path](/sample_page)
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
