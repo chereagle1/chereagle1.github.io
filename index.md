@@ -4,7 +4,7 @@
 
 ### Previous Projects 
 
-[Ranger Accessibility Path] (/https://github.com/chereagle1/chereagle1.github.io/blob/f733a830c4887fe19d1def031919f69349d3706b/images/Ranger%20Accessibility%20Paths.png)
+[Ranger Accessibility Path] 
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
