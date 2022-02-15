@@ -4,7 +4,7 @@
 
 ### Previous Projects 
 
-Ranger Accessibility Path 
+Ranger Accessibility Path, col="RED"
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
