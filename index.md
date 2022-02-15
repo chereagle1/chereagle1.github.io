@@ -16,7 +16,7 @@ Grocery Store Network Analysis, Leon County
 <img src="images/Eagle Project 4.png"/>
 
 ---
-[Tracking Hurricane Katrina and Emily, 2005] (/pdf/Assignment 7 Eagle.pdf)
+[Tracking Hurricane Katrina and Emily, 2005] 
 <img src="images/Assignment 7 Eagle.pdf"/>
 
 ---
