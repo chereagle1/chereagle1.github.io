@@ -8,8 +8,8 @@
 <img src="images/Ranger%20Accessibility%20Paths.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[LA River Revitalization Plan, Park Prospects](/pdf/sample_presentation.pdf)
+<img src="images/Eagle Project 2.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
