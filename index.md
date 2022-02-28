@@ -27,7 +27,7 @@
 ---
 ### Story Maps
 [Population Growth in San Bernardino County from 2011-2019](https://storymaps.arcgis.com/stories/30bf7dd78c4d4a70bc2f453d525050e0)
-<img src="Story Maps/Population Growth in San Bernardino County.PNG?raw=true"(https://storymaps.arcgis.com/stories/30bf7dd78c4d4a70bc2f453d525050e0)/>
+<img src="https://github.com/chereagle1/chereagle1.github.io/blob/12b97bef929f368e0b5583991e889fb3525d2b32/Story%20Maps/Population%20Growth%20in%20San%20Bernardino%20County%20from%202011-2019.PNG?raw=true"(https://storymaps.arcgis.com/stories/30bf7dd78c4d4a70bc2f453d525050e0)/>
 
 
 [![Population Growth in San Bernardino County from 2011-2019](Story Maps/Population Growth in San Bernardino County from 2011-2019.PNG)](https://storymaps.arcgis.com/stories/30bf7dd78c4d4a70bc2f453d525050e0)
