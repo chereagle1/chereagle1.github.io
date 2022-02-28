@@ -16,10 +16,6 @@
 <img src="images/Eagle Project 4.png?raw=true"/>
 
 ---
-[Tracking Hurricane Katrina and Emily, 2005](https://github.com/chereagle1/chereagle1.github.io/blob/9a8ed8b32fc4b1494f9268fd4717b8ee09891408/pdf/Assignment%207%20Eagle.pdf)
-<embed src="pdf/Assignment 7 Eagle.pdf" type="application/pdf" width="100%" height="600px" />
-
----
 ### Map PDFs
 
 - [California "Camp Fire Wildfire" Analysis 2018](https://github.com/chereagle1/chereagle1.github.io/blob/d76f9af8bfcdc81c4e2de9ec6332b14b22ed2064/pdf/Final%20Project%20Mark%20Eagle.pdf)
