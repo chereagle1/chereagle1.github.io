@@ -28,7 +28,7 @@
 
 ---
 
-### Previous Projects 
+### Google Earth Engine
 [Kincade Wildfire 2019 Burn Analysis](https://markeagle.users.earthengine.app/view/kincade-fire-2019-burn-analysis)
 <img src="Google Earth Engine/Kincade fire.PNG?raw=true"/>
 
