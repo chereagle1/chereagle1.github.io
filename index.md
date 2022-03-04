@@ -26,6 +26,12 @@
 [Population Growth in San Bernardino County from 2011-2019](https://storymaps.arcgis.com/stories/30bf7dd78c4d4a70bc2f453d525050e0)
 <img src="Story Maps/Population Growth in San Bernardino County from 2011-2019.PNG?raw=true"/>
 
+---
+
+### Previous Projects 
+[Kincade Wildfire 2019 Burn Analysis](https://markeagle.users.earthengine.app/view/kincade-fire-2019-burn-analysis)
+<img src="Google Earth Engine/Kincade fire.PNG?raw=true"/>
+
 
 
 - [Project 3 Title](http://example.com/)
